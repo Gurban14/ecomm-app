@@ -1,9 +1,3 @@
-# React + Vite + Tailwind CSS Project
-
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
-
-## 🚀 Features
-
 - **React 18** - React version with improved rendering and concurrent features
 - **Vite** - Lightning-fast build tool and development server
 - **TailwindCSS** - Utility-first CSS framework with extensive customization
@@ -11,7 +5,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
 
 ## 📋 Prerequisites
 
-- Node.js (v14.x or higher)
+- Node.js
 - npm or yarn
 
 
@@ -50,6 +44,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
 ├── vite.config.js       # Vite configuration
 ```
 
+<<<<<<< HEAD
 ## 🧩 Adding Routes
 
 To add new routes to the application, update the `Routes.jsx` file:
@@ -87,3 +82,9 @@ This project uses Tailwind CSS for styling. The configuration includes:
 ```bash
 npm run build
 ```
+=======
+
+## 🎨 Styling
+
+This project uses Tailwind CSS for styling.
+>>>>>>> 90642c5d69cb2426cb1e8ba60eef6230109cfa37
