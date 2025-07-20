@@ -2,7 +2,6 @@
 node_modules/
 package-lock.json
 
-# Production build
 build/
 
 # Logs
@@ -14,13 +13,10 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 
-# Optional: if using TypeScript
 *.tsbuildinfo
 
-# Optional: if using testing tools
 coverage/
 jest-test-results.json
 
-# Optional: if using IDEs
 .vscode/
 .idea/

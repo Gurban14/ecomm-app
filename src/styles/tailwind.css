@@ -15,7 +15,7 @@
     --global-bg-8: #f1f3f4;
     --global-bg-9: #f6f7f8;
     --global-bg-10: #fc3e39;
-    --global-bg-11: #ff00b4;
+    --global-bg-11: #FF4858;
     --global-bg-12: #ff6875;
     --global-bg-13: #fff600;
     --global-bg-14: #ffffff;
@@ -41,7 +41,8 @@
     --header-text-1: #2626267f;
 
     /* Button Colors */
-    --button-bg-1: #ff4858;
+    --button-bg-1: #40bfff;
+    --button-bg-2: #EBF0FF;
 
     /* Footer Colors */
     --footer-bg-1: #bcddfd;
@@ -90,6 +91,7 @@
 
   /* Button */
   .bg-button-1 { background-color: var(--button-bg-1); }
+  .bg-button-2 { background-color: var(--button-bg-2); }
 
   /* Footer */
   .bg-footer-1 { background-color: var(--footer-bg-1); }

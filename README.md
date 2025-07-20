@@ -58,7 +58,6 @@ To add new routes to the application, update the `Routes.jsx` file:
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-// Import page components
 import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
 
@@ -85,18 +84,6 @@ This project uses Tailwind CSS for styling. The configuration includes:
 - Responsive design utilities
 - PostCSS and Autoprefixer integration
 
-## 📦 Deployment
-
-Build the application for production:
-
 ```bash
 npm run build
 ```
-
-## 🙏 Acknowledgments
-
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
-
-Built with ❤️ on Rocket.new
